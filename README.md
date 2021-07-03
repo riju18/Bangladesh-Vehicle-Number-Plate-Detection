@@ -8,6 +8,7 @@
 ## Things to do :
 - Need more images for production ;
 - For smooth real time detection need to build openCV with GPU ;
+- Need to OCR ;
 
 ## Screenshots :
 
