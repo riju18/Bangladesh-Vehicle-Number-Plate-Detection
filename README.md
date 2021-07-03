@@ -2,6 +2,7 @@
 
 ## Things have been done :
 - trained with 100 bd vehicle images which contain bus, truck, CNG, bike, different cars with number plate;
+- images collected from google for train & test and may have copyright issue. If there is any copyright I apologize.
 - accuracy 905%+ ;
 
 ## Things to do :
